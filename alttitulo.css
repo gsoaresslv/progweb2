@@ -1,0 +1,11 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 15%;
+    background-color: cyan;
+}
+h1{
+    color: red; font-size: 300%;
+}
+img{
+    max-width: fit-content; max-width: 200px;
+}
